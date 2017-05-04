@@ -1,3 +1,8 @@
+1) Adding user input, reading input from a DOM element.  Problem is, react doesnt know what the number is.
+
+---------------------
+
+
 import React, { Component } from 'react';
 
 
