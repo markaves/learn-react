@@ -1,3 +1,11 @@
+Using setState api call
+
+https://facebook.github.io/react/community/support.html
+
+How to use setInterval. setState
+
+*******************************************************
+
 import React, { Component } from 'react';
 
 class Timer extends Component {
