@@ -1,3 +1,13 @@
+1) Open react app in the browser, dev tools, React tab
+2) So far we have and app component that does not have a property or a state.  The app component renders a timer component  which recieves a start with props that has a value of 150.  It copies this startwith value to the components state using the current value property.
+
+Things Done:
+
+Moving the state from the timer component to the app component.
+Adding a reset button for the timer
+
+
+
 import React, { Component } from 'react';
 
 
@@ -36,3 +46,5 @@ class App extends Component {
 }
 
 export default App;
+
+
