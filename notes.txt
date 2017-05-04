@@ -1,9 +1,0 @@
-1) Installation / Execution
-	npm i -g create-react-app
-	create-react-app learn-react
-        cd learn-react
-        npm start
-
-2)
-  
-   
