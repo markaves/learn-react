@@ -1,3 +1,14 @@
+This is a continuation of the previous one.
+
+updating components
+
+componentWllReceiveProps()
+shouldComponentUpdate()
+componentWillUpdate()
+componentDidUpdate()
+
+------------------------------
+
 import React, { Component } from 'react';
 
 
