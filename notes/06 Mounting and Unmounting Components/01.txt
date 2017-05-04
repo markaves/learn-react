@@ -1,3 +1,12 @@
+Mounting and unmounting events.  React currently has 3 life cycles methods for these events.
+
+componentWillMount()
+componentDidMount()
+componentWillUnmount()
+
+
+---------------------------
+
 import React, { Component } from 'react';
 
 
