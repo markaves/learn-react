@@ -1,3 +1,9 @@
+1) Allowing children component to control parent component.
+2) Stop the clock when the number is clicked
+
+
+----------------------
+
 import React, { Component } from 'react';
 
 
