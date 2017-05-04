@@ -1,3 +1,12 @@
+1) Learn how to work with user inputs
+2) React's event system
+3) Accessing DOM nodes directly
+4) Controlling components
+
+
+Added a button to start the timer.  React doesnt know about this.
+---------
+
 import React, { Component } from 'react';
 
 
@@ -8,7 +17,6 @@ const Timer = ({currentValue, resetTimerFunction}) => {
         </div>
     );
   }
-
 
 class App extends Component {
   constructor(props){
